@@ -26,7 +26,7 @@ Les clients y venaient joliment vêtus, se présentaient et donnaient avec amour
 &nbsp;&nbsp;&nbsp;&nbsp;Je vais rester sur cette belle image et vous souhaiter une année qui nous gardera, j'espère, en bonne santé, condition sine qua non pour vivre...cent ans ! Qui sait ?
 
 Voici un ananas de ma part, pour un délicieux nectar :
-<img class="alignright" src="http://www.santal.it/doc/frutta/13/img-img-ananas_b_b.png" alt="" width="130" height="211" />
+<img class="alignright" src="http://www.santal.it/doc/frutta/13/img-img-ananas_b_b.png" alt="ananas" width="130" height="211" />
 
 
 **Bonne et heureuse année!**
