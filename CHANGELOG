@@ -15,3 +15,5 @@
     + changed README to be in sync with github
 * 0.1.1.4
     + added alt to ananas.md
+* 0.1.1.5
+    + reverted back the secure info on travis.yml
