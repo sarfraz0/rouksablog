@@ -8,3 +8,5 @@
     + done migrating components from wordpress
     + done adapting config from variablentreprise
     + added disqus comments
+* 0.1.1.2
+    + travis first build
