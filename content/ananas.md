@@ -6,11 +6,12 @@ Category: Célébration
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pour cette nouvelle année 2015 :
 
-    Voici des fruits, des fleurs et des branches
-    Et puis voici mon cœur qui ne bat que pour vous.
-    Ne le déchirez pas avec vos deux mains blanches
-    Et qu'à vos yeux si beaux, l'humble présent soit doux
-<p style="text-align: right;">*Paul Verlaine*</p>
+- *Voici des fruits, des fleurs et des branches*
+- *Et puis voici mon cœur qui ne bat que pour vous.*
+- *Ne le déchirez pas avec vos deux mains blanches*
+- *Et qu'à vos yeux si beaux, l'humble présent soit doux*
+- **Paul Verlaine**
+
 La suite du poème : <a href="http://www.poesie.net/green.htm">ici</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Quel plus beau cadeau qu'un ananas fleuri offert pour le nouvel an ?

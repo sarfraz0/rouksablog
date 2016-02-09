@@ -1,6 +1,6 @@
 Title: L'accident cérébral
 Date: 2014-12-14 23:59
-Category: Famille, Handicap
+Category: Vie
 
 >« Ce qui se conçoit bien s'énonce clairement et les mots pour le dire arrivent aisément. »
 <p align="right">*Boileau*</p>

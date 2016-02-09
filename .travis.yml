@@ -1,0 +1,13 @@
+language: python
+python:
+    - "3.4"
+branches:
+    only:
+        - master
+install:
+    - pip install ghp-import markdown lxml pelican
+script:
+    - make publish github
+env:
+    global:
+        secure: "NvdAs8/epc66RV+DKI6e6I8FHVsa/afYg7GotUe0gtr0akbYhkAT7KQhfJIRi28uIicMDAJaF9MIQ4LwEPoSL0Vifnd3cs2ZilAq7D3xoj+e/xZ2Fg4II2fO9Jthihmd06WdpURfeWiw0FLziTQFUATmJjeiDcSWF+Df1CZ/uTquMkay1bPGZ54fW/n7Dg8lFtd1k4iP7fUfM8TUbEheEtrrnSXF9iTFuJGJlf4P78oa+OBCJtvWNOz71NLyyNPcbUb08DR0jSmgB70SvleD8CQ4WzD/mfDj/lM2tsCjGSn4OGGIHP1JfToh8ipwrOB+iAHqbL0DxAiiEwEEn0LC+hX1QEQe3sjk8VGBN9vMOXON42Gds/hPRBlrCQ8W7MlWzA/ocKHi9cSGrzIuOmUkoigmlAO264skmvCext8T9p3lAJQR6W5pvSUYQcEaAKBIGdj1htoHNBpmrNNdYRGbr0zQub0+38mQpF/OiCSlQ3o39CyBkDczRKE9IAOGeZb+4nHbc+slpAoWcbog8X9QCABX44+W57MqZ4rjjVrU2Wk18cx9rIyTVsFu5wFVvr/5hNBqZnanQYANTeCtFlEU5xesFmUU+BjiRz8PeaPvF+TK5pRZHwl0N2b/LPV1LlRkDMPO3wCXscrcvDW9AP2Zf+qUpHr+or2waZ2+Gca9X8A="

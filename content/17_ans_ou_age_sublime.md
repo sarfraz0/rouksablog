@@ -6,7 +6,7 @@ Category: Famille
 
 &nbsp;&nbsp;&nbsp;&nbsp;Partir, c'est mourir un peu :
 
-<p align="center">**RONDEL DE L’ADIEU**</p>
+<p align="center"><strong>RONDEL DE L’ADIEU</strong></p>
 
     Partir, c’est mourir un peu,
     C’est mourir à ce qu’on aime :
@@ -66,12 +66,12 @@ Category: Famille
 &nbsp;&nbsp;&nbsp;&nbsp;Finalement, après mûre réflexion les vieux ont émis leur verdict : Sorein avait été reçu au baccalauréat et, comme ses aînés, se préparait à quitter les siens pour l'étranger. Rania ne pouvait le suivre. Abattue et désespérée, elle avait perdu le sourire et s'amenuisait. Elle se morfondait et cloitrée chez elle, pensait en son for intérieur qu'il n'y avait pas lieu de s'inquiéter outre mesure étant persuadée que, selon la coutume, il ne pourrait la quitter et lui proposerait le mariage quitte à l'emmener avec lui. Elle attendait, la mort dans l'âme, cette rencontre, peut-être la dernière le coeur rempli d'émotions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Mais Ô Surprenante apparition! Voilà qu'au bout d'un mois, les enfants heureux et hilares sont allés à cor et à cri informer les villageois qu'ils avaient aperçu Sorein et Rania tranquillement assis sous leur arbre.
+
 ![Flamboyant](http://img.over-blog-kiwi.com/0/44/93/39/201311/ob_e32d05d0f46ce483abbe5717071c87ed_flamboyant.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;C'était effectivement leur lieu de rendez-vous. Ce flamboyant, bel arbre aux fleurs rouges comme l'amour ardent où ils avaient inscrit leurs prénoms et juré de ne jamais se séparer. Ils discutèrent joyeusement et enfin il lui déclara : « lorsque je reviendrai au village avec mes diplômes, je me marierai avec la fille du village que… ma mère choisira ! ».
 
-Maison en *falafa* :
-<img class="alignnone" src="http://www.tongasoa-madagascar.com/wp-content/uploads/2013/04/0349-Maison-v%C3%A9g%C3%A9tal.jpg" alt="" width="800" height="533" />
+<img class="alignnone" src="http://www.tongasoa-madagascar.com/wp-content/uploads/2013/04/0349-Maison-v%C3%A9g%C3%A9tal.jpg" alt="Maison en falafa" width="800" height="533" />
 
 Et hop, vidéo bonus:
 <div class="youtube youtube-16x9"><iframe src="https://www.youtube.com/embed/J8BWkT6GDfE" allowfullscreen seamless frameBorder="0"></iframe></div>

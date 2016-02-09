@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Sarfraz Kapasi'
-SITENAME = 'Chez Sarfraz'
+AUTHOR = 'Rouksana Fidaly'
+SITENAME = 'Chez Rouksana'
 SITEURL = ''
 
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'fr'
 
-THEME='themes/pelican-bootstrap3'
+THEME='themes/html5-dopetrope'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -30,6 +30,9 @@ AUTHOR_FEED_RSS = None
 #          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
+
+DISQUS_SITENAME="rouksa"
+#GOOGLE_ANALYTICS = "UA-73554248-1"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

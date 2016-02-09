@@ -1,6 +1,6 @@
 Title: Fata et ses copines
 Date: 2015-11-21 22:31
-Category: Famille,Recette
+Category: Famille
 
 &nbsp;&nbsp;&nbsp;&nbsp;Chers lecteurs, chères lectrices,
 
@@ -17,7 +17,7 @@ Category: Famille,Recette
 <p align="right">*Baltazar Garcian y Moralès*</p>
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;De la maternelle à aujourd'hui, il était inimaginable que Fata ne soit accompagnée. J'entends par là son besoin absolu d'avoir une amie en chair et en os ou imaginaire avec laquelle elle s'entretenait, mangeait, jouait. Bref, son autre moitié. Nous l'entendions discuter avec Nadine, sa première «esclave», une poupée offerte à Noël. Nous en étions presque jaloux de ce qu'elle lui accordât tout son temps en nous dénigrant tous. Nadine l'a suivie jusqu'à ses 6 ans.
+&nbsp;&nbsp;&nbsp;&nbsp;De la maternelle à aujourd'hui, il était inimaginable que Fata ne soit accompagnée. J'entends par là son besoin absolu d'avoir une amie en chair et en os ou imaginaire avec laquelle elle s'entretenait, mangeait, jouait. Bref, son autre moitié. Nous l'entendions discuter avec Nadine, sa première « esclave », une poupée offerte à Noël. Nous en étions presque jaloux de ce qu'elle lui accordât tout son temps en nous dénigrant tous. Nadine l'a suivie jusqu'à ses 6 ans.
 
 &nbsp;&nbsp;&nbsp;&nbsp;En primaire, ce fut Lin lin, une jolie voisine dont les parents étaient originaires des Philippines. Des gens magnifiques, sociables et qui l'avaient adoptée. Elles étaient inséparables. De temps à autre, Fata disparaissait de la maison sans crier gare. Nous n'étions pas inquiets certains de sa nouvelle demeure. Elle est revenue, un jour en larmes : «Lin lin va partir!». Tout s'effondrait.
 
