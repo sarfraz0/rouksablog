@@ -17,3 +17,5 @@
     + added alt to ananas.md
 * 0.1.1.5
     + reverted back the secure info on travis.yml
+* 0.1.1.6
+    + regenerated token
