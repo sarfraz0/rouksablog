@@ -1,0 +1,8 @@
+@import url(//fonts.googleapis.com/css?family=Libre+Baskerville:700);
+.article_content {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 125%
+}
+.article_summary {
+    font-family: 'Libre Baskerville', serif;
+}

@@ -16,7 +16,9 @@
                             <h3>{{article.title }}</h3>
                             <span class="byline">{{ article.date }}</span>
                         </header>
-                        {{ article.summary }}
+                        <div class="article_summary">
+                            {{ article.summary }}
+                        </div>
                         <footer class="actions">
                             <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">Continue Reading</a>
                         </footer>

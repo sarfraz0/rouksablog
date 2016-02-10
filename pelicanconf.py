@@ -38,8 +38,11 @@ DISQUS_SITENAME="rouksa"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-STATIC_PATHS = ['extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['extra/CNAME', 'extra/custom.css']
+EXTRA_PATH_METADATA = { 'extra/CNAME': {'path': 'CNAME'}
+                      , 'extra/custom.css': {'path': 'static/custom.css'}
+                      }
+CUSTOM_CSS = 'static/custom.css'
 
 # http://cyrille.rossant.net/pelican-github
 #MD_EXTENSIONS = [ 'codehilite(css_class=highlight, guess_lang=False,linenums=False)'

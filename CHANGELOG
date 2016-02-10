@@ -26,3 +26,7 @@
 * 0.1.1.8
     + tryed to change markdown ext
     + enabled copy
+* 0.1.1.9
+    + added custom css
+    + added Libre Baskerville font-face attribute to summary and post text
+    + fixed post text to 125
