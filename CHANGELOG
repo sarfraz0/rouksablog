@@ -19,3 +19,7 @@
     + reverted back the secure info on travis.yml
 * 0.1.1.6
     + regenerated token
+* 0.1.1.7
+    + removed html spaces for paragraph indentation
+    + corrected some formatting
+    + added typogify dep

@@ -2,28 +2,28 @@ Title: Fata et ses copines
 Date: 2015-11-21 22:31
 Category: Famille
 
-&nbsp;&nbsp;&nbsp;&nbsp;Chers lecteurs, chères lectrices,
+Chers lecteurs, chères lectrices,
 
-&nbsp;&nbsp;&nbsp;&nbsp;En créant ce blog, je devais vous faire part, suite à mon handicap, des nombreuses astuces utilisées afin de pallier mon quotidien. Ce dont je me suis éloignée. Par conséquent, j'ai décidé de vous publier chaque jour une de mes solutions face à une difficulté précise.
+En créant ce blog, je devais vous faire part, suite à mon handicap, des nombreuses astuces utilisées afin de pallier mon quotidien. Ce dont je me suis éloignée. Par conséquent, j'ai décidé de vous publier chaque jour une de mes solutions face à une difficulté précise.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Mais auparavant, j'aimerais vous raconter, en 6 épisodes, la petite vie, encore inachevée de Fata. Chaque épisode comportant sa recette spécifique.
+Mais auparavant, j'aimerais vous raconter, en 6 épisodes, la petite vie, encore inachevée de Fata. Chaque épisode comportant sa recette spécifique.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Contrairement à mon dernier récit sur la séparation d'avec un amour, un ami dont il faut en faire le deuil, les amies de Fata l'accompagneront sans aucun doute, jusqu'à la mort.
+Contrairement à mon dernier récit sur la séparation d'avec un amour, un ami dont il faut en faire le deuil, les amies de Fata l'accompagneront sans aucun doute, jusqu'à la mort.
 
 Épisode 1 Lin-Lin
 -----------------
 
->« La réflexion personnelle est l'école de la sagesse »
-<p align="right">*Baltazar Garcian y Moralès*</p>
+>« La réflexion personnelle est l'école de la sagesse »  
+**Baltazar Garcian y Moralès**
 
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;De la maternelle à aujourd'hui, il était inimaginable que Fata ne soit accompagnée. J'entends par là son besoin absolu d'avoir une amie en chair et en os ou imaginaire avec laquelle elle s'entretenait, mangeait, jouait. Bref, son autre moitié. Nous l'entendions discuter avec Nadine, sa première « esclave », une poupée offerte à Noël. Nous en étions presque jaloux de ce qu'elle lui accordât tout son temps en nous dénigrant tous. Nadine l'a suivie jusqu'à ses 6 ans.
+De la maternelle à aujourd'hui, il était inimaginable que Fata ne soit accompagnée. J'entends par là son besoin absolu d'avoir une amie en chair et en os ou imaginaire avec laquelle elle s'entretenait, mangeait, jouait. Bref, son autre moitié. Nous l'entendions discuter avec Nadine, sa première « esclave », une poupée offerte à Noël. Nous en étions presque jaloux de ce qu'elle lui accordât tout son temps en nous dénigrant tous. Nadine l'a suivie jusqu'à ses 6 ans.
 
-&nbsp;&nbsp;&nbsp;&nbsp;En primaire, ce fut Lin lin, une jolie voisine dont les parents étaient originaires des Philippines. Des gens magnifiques, sociables et qui l'avaient adoptée. Elles étaient inséparables. De temps à autre, Fata disparaissait de la maison sans crier gare. Nous n'étions pas inquiets certains de sa nouvelle demeure. Elle est revenue, un jour en larmes : «Lin lin va partir!». Tout s'effondrait.
+En primaire, ce fut Lin lin, une jolie voisine dont les parents étaient originaires des Philippines. Des gens magnifiques, sociables et qui l'avaient adoptée. Elles étaient inséparables. De temps à autre, Fata disparaissait de la maison sans crier gare. Nous n'étions pas inquiets certains de sa nouvelle demeure. Elle est revenue, un jour en larmes : «Lin lin va partir!». Tout s'effondrait.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Pour qu'elle fasse le deuil de sa Lin lin, je l'ai emmenée dans sa nouvelle maison au métro mairie des lilas. Elles se sont dirigées vers la nouvelle chambre de Lin lin et les mamans en cuisine pour concocter un «poulet façon malaisienne».
+Pour qu'elle fasse le deuil de sa Lin lin, je l'ai emmenée dans sa nouvelle maison au métro mairie des lilas. Elles se sont dirigées vers la nouvelle chambre de Lin lin et les mamans en cuisine pour concocter un «poulet façon malaisienne».
 
-&nbsp;&nbsp;&nbsp;&nbsp;De retour à la maison, toute sereine Fata m'a déclaré : Lin lin ne m'a parlé que de Rebecca, sa nouvelle copine !
+De retour à la maison, toute sereine Fata m'a déclaré : Lin lin ne m'a parlé que de Rebecca, sa nouvelle copine !
 <h3 style="text-align: center;">Poulet malais Lin lin</h3>
 <ul>
 	<li><span style="font-size: large;"><i><u>I</u></i></span><span style="font-size: large;"><i><u>ngrédients</u></i></span> <span style="font-size: large;"><i>: </i></span>

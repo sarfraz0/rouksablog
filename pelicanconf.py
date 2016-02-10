@@ -11,6 +11,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
 THEME='themes/html5-dopetrope'
+TYPOGRIFY = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
