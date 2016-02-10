@@ -5,6 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = 'Rouksana Fidaly'
 SITENAME = 'Chez Rouksana'
 SITEURL = ''
+MAIL= 'rouksana@varialbentreprise.com'
+SHOW_COPYRIGHT=True
+COPYRIGHT='Rouksana Fidaly - <a href="https://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0</a>'
 
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
@@ -21,10 +24,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+LINKS = (('Github', 'https://github.com/sarfraz0/rouksablog'),)
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
@@ -40,4 +40,8 @@ DISQUS_SITENAME="rouksa"
 
 STATIC_PATHS = ['extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
+# http://cyrille.rossant.net/pelican-github
+#MD_EXTENSIONS = [ 'codehilite(css_class=highlight, guess_lang=False,linenums=False)'
+#                , 'pymdownx.github' ]
 

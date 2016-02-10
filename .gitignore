@@ -1,5 +1,6 @@
 # Develop server
 *.pid
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

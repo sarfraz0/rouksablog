@@ -23,3 +23,6 @@
     + removed html spaces for paragraph indentation
     + corrected some formatting
     + added typogify dep
+* 0.1.1.8
+    + tryed to change markdown ext
+    + enabled copy
