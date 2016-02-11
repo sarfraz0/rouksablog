@@ -8,6 +8,7 @@
             <div class="row">
             {% endif %}
                 <div class="4u">
+                    <div class="light red">
                     <section class="box">
                         {% if article.picture is defined %}
                         <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/{{ article.picture }}" alt=""/></a>
@@ -23,6 +24,7 @@
                             <a href="{{ SITEURL }}/{{ article.url }}" class="button button-icon button-icon-1">Continue Reading</a>
                         </footer>
                     </section>
+                    </div>
                 </div>
             {% if loop.index % 3  == 0 %}
             </div>

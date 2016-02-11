@@ -30,3 +30,6 @@
     + added custom css
     + added Libre Baskerville font-face attribute to summary and post text
     + fixed post text to 125
+* 0.1.1.10
+    + ajout solarized theme for article content
+    + changed font settings to be correct on chrome and firefox
