@@ -33,3 +33,6 @@
 * 0.1.1.10
     + ajout solarized theme for article content
     + changed font settings to be correct on chrome and firefox
+* 0.1.1.11
+    + ajout de solarized pour les categories (chemin absolu)
+    + ajout du post sur l'historique du blog
