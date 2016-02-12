@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Chez Rouksana</title><link href="/" rel="alternate"></link><link href="/feeds/tech.atom.xml" rel="self"></link><id>/</id><updated>2016-02-11T18:00:00+01:00</updated><entry><title>Histoire de ce blog</title><link href="/histoire-de-ce-blog.html" rel="alternate"></link><updated>2016-02-11T18:00:00+01:00</updated><author><name>Sarfraz Houssen Kapasi</name></author><id>tag:,2016-02-11:histoire-de-ce-blog.html</id><summary type="html">&lt;p&gt;Chers&amp;nbsp;lecteurs,&lt;/p&gt;
+&lt;p&gt;Je me permets de prendre contrôle du blog de ma mére afin de vous parler des changements opérés sur le système servant le blog et pourquoi il y a eu besoin de&amp;nbsp;changer.&lt;/p&gt;
+&lt;h4&gt;Genèse du&amp;nbsp;blog&lt;/h4&gt;
+
+&lt;p&gt;L&amp;#8217;idée de la toute première version de ce blog m&amp;#8217;est venue suite au constat simple que m&amp;#8217;a mère appréciait particulièrement nous aider à faire nos devoirs de français (aucunement une révélation). Mais c&amp;#8217;est une constatation qui est arrivée a un moment ou j&amp;#8217;essayais de mettre en place la 4eme version de mon blog personnel (ou peut être la 5eme…). J&amp;#8217;ai un effet un long passé avec la mise en place de blogs avec des moteurs divers et variés. Beaucoup moins en rédaction d&amp;#8217;articles cela dit. Mais c&amp;#8217;est hors&amp;nbsp;sujet.&lt;/p&gt;
+&lt;p&gt;Ayant tout juste commencé un job de développeur en informatique, je n&amp;#8217;avais pas plus le temps que la patience pour faire une liste d’exigences, mettre en place une solution dédiée et faire de la maintenance. Comme c&amp;#8217;est souvent le cas dans ce genre de situation, il existait la solution rêvée: &lt;strong&gt;Wordpress&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Wordpress c&amp;#8217;est simple, Wordpress c&amp;#8217;est facile. Pas de maintenance, installation en 1 clique. Supporté et encouragé par pratiquement tout les hébergeurs. La voie royale. Je me suis dit : « Bon je trouve un bon hébergeur, je clique clique, mets un thème un peu sympa, fait une petite formation sur l&amp;#8217;outil et c&amp;#8217;est partis pour la postérité.» Je me suis gravement&amp;nbsp;trompé.&lt;/p&gt;
+&lt;h4&gt;1. Première&amp;nbsp;version&lt;/h4&gt;
+
+&lt;p&gt;Donc comme dit plus haut: Wordpress. Il y a trois ans, la solution dédiée la moins chère c&amp;#8217;était de prendre un &lt;span class="caps"&gt;VPS&lt;/span&gt; &lt;span class="caps"&gt;OVH&lt;/span&gt;. Même avec un Wordpress dessus, ces petites machines virtuelles tenaient plutôt bien la charge. Et puis que veux le peuple pour 3,50 euros par mois. Cerise sur le gâteaux, il y avait une image Wordpress disponible au déploiement en un 1 clique. Il faut savoir que sur un hébergement dédie on a une machine physique vide et c&amp;#8217;est au rôle de l&amp;#8217;administrateur d&amp;#8217;installer quelque chose dessus. Au contraire de ces solutions partagée de services déjà prêts.&lt;br /&gt;
+Super! Je clique… « Merci de bien attendre votre blog est en court de création. ». Super cool!&lt;br /&gt;
+Je me retrouve devant la console d&amp;#8217;administration, je choisis un thème. Et hop, je vais voir ma mère pour lui montrer le&amp;nbsp;bousin.&lt;/p&gt;
+&lt;p&gt;Oh purée. C&amp;#8217;est la que je me suis rendu compte de ma première erreur. Wordpress c&amp;#8217;est pas simple pour tout le&amp;nbsp;monde.&lt;/p&gt;
+&lt;h5&gt;1.1. les tâches du&amp;nbsp;blogueur&lt;/h5&gt;
+
+&lt;p&gt;Pour vous expliquer l&amp;#8217;erreur mentionnée plus haut, le plus simple c&amp;#8217;est de vous énumérer les tâches récurrentes qu&amp;#8217;un blogueur doit répéter&amp;nbsp;quotidiennement.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Écrire son&amp;nbsp;texte&lt;/li&gt;
+&lt;li&gt;Faire relire son&amp;nbsp;texte&lt;/li&gt;
+&lt;li&gt;Publier son&amp;nbsp;texte&lt;/li&gt;
+&lt;li&gt;Modérer les nouveaux&amp;nbsp;commentaires/spam&lt;/li&gt;
+&lt;li&gt;Tenir compte des nouveaux commentaires/mettre à jour un article&amp;nbsp;existant&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Oui mais tout ça c&amp;#8217;est pour blogueur Sauf que le Wordpress il faut le faire vivre. Et donc on a les tâches&amp;nbsp;d&amp;#8217;administration:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Garder le blog&amp;nbsp;opérationnel&lt;/li&gt;
+&lt;li&gt;Supprimer le&amp;nbsp;spam&lt;/li&gt;
+&lt;li&gt;Mettre à jour le&amp;nbsp;moteur&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Et tout ça c&amp;#8217;est si on a une personne unique, mais quand on a un utilisateur et un administrateur, ce dernier se tape aussi: Le Support (avec Majuscule car c&amp;#8217;est tout et n&amp;#8217;importe quoi&amp;nbsp;la).&lt;/p&gt;
+&lt;h5&gt;1.2. La chute de la première&amp;nbsp;version&lt;/h5&gt;
+
+&lt;p&gt;Pour être franc et raccourcir ce billet parmi toutes ces tâches ma mère ne sais en faire qu&amp;#8217;une et encore partiellement : écrire son texte sur LibreOffice.&lt;br /&gt;
+&lt;u&gt;Et c&amp;#8217;est normal.&lt;/u&gt;
+Il faut comprendre par la qu&amp;#8217;elle ne fait pas partie de cette génération informatisée. L&amp;#8217;ordinateur était facultatif lorsqu&amp;#8217;elle&amp;nbsp;travaillait.&lt;/p&gt;
+&lt;p&gt;Naturellement, je me tapais le reste (et plus encore). Mais comme je n&amp;#8217;avais pas le temps c&amp;#8217;était fait&amp;nbsp;sommairement.&lt;/p&gt;
+&lt;p&gt;Au bout d&amp;#8217;un moment, ma mère se retrouvait à demander quotidiennement de l&amp;#8217;aide pour publier son dernier texte (comprendre par la prendre le document LibreOffice et le transformer en article sur Wordpress). Le blog quant a lui n&amp;#8217;était plus maintenu faute de&amp;nbsp;temps.&lt;/p&gt;
+&lt;p&gt;Et un jour Nginx le serveur web tomba. &lt;span class="caps"&gt;OK&lt;/span&gt;, bon je réinstalle. Nope ça retombe. &lt;span class="caps"&gt;OK&lt;/span&gt;, j&amp;#8217;installe mais cette fois pas de clique clique -&amp;gt; j&amp;#8217;y vais en mode hard. Je fais tout à la main. L&amp;#8217;installation du serveur web, de l’interpréteur &lt;span class="caps"&gt;PHP&lt;/span&gt;, la mise en place du &lt;span class="caps"&gt;SSL&lt;/span&gt;, la mise en place du load-balancing, les règles de sécurité, tout! Nope ça retombe, l&amp;#8217;export de la configuration est corrompue rien à faire et pas le temps de dépatouiller cette&amp;nbsp;bouse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;La première version était tombé. Elle était morte. Vive la seconde&amp;nbsp;version.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;2. Leçons&amp;nbsp;tirées&lt;/h4&gt;
+
+&lt;p&gt;&lt;span class="caps"&gt;OK&lt;/span&gt; donc maintenant pour la conclusion, voici une énumérations des fausses idées reçues concernant la&amp;nbsp;solution:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Wordpress n&amp;#8217;est pas simple à utiliser (combien de fois j&amp;#8217;ai du donner des explications pour publier, reformater, visualiser, modérer,&amp;nbsp;etc…)&lt;/li&gt;
+&lt;li&gt;Wordpress n&amp;#8217;est pas stable. Je suis un architecte système, c&amp;#8217;est mon travail d&amp;#8217;avoir un &lt;span class="caps"&gt;SLA&lt;/span&gt; parfait! Alors bien sûr avec un investissement relatif il y a moyen d&amp;#8217;avoir un Wordpress super stable. Mais ça n&amp;#8217;en vaut pas la chandelle. Il existe d&amp;#8217;autre&amp;nbsp;solutions.&lt;/li&gt;
+&lt;li&gt;La plupart des thèmes gratuits existant ne sont pas adaptés aux personnes âgées ou ayant des problèmes de vue (mauvaise taille de texte, mauvaise police de texte, mauvaise associations de couleurs,&amp;nbsp;etc…)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Tout ce schmilblick s&amp;#8217;est déroulé sur une période de deux ans. La version 2 (la version actuelle) corrige une grande partie des erreurs citées plus haut.
+On a maintenant un système stable, simple à utiliser (ma mère n&amp;#8217;a plus besoin que de LibreOffice et rien d&amp;#8217;autre) et qui prends en compte l&amp;#8217;ergonomie de lecture (faites attentions aux couleurs :)&amp;nbsp;).&lt;/p&gt;
+&lt;p&gt;Malheureusement, suite à la mise à jour du blog, j&amp;#8217;ai changé le système de commentaire pour utiliser Disqus afin de justement de garder la partie modération des commentaire a un strict minimum et ce faisant ai perdu les commentaires existants. Je compte essayer de les récupérer si possible mais pour l&amp;#8217;instant ce n&amp;#8217;est pas&amp;nbsp;possible.&lt;/p&gt;</summary></entry></feed>
