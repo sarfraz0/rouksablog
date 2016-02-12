@@ -38,3 +38,5 @@
     + ajout du post sur l'historique du blog
 * 0.1.1.12
     + deleted wrongly copied content in lastest post
+* 0.1.1.13
+    + first pass on orthographe for historique_blog
